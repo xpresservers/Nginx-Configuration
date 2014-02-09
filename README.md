@@ -1,9 +1,7 @@
-nginx-configs
+Nginx Configuration (mainly configured for Wordpress Multisite with subdomain and domain mapping)
 =============
 
-Nginx Configurations
-
-This is just a hobby project. Please evaluate configurations and help me to optimize these.
+*Please Note: This is just a hobby project. Please evaluate configurations and help me to optimize these.*
 
 These configurations are mainly configured for wordpress multisite installation on sub domain with domain mapping. Please use http://wordpress.org/plugins/wordpress-mu-domain-mapping/ for better results.
 
